@@ -22,4 +22,17 @@ class Passenger {
   
 }
 
-let d
+let tripId = 0;
+
+class Trip {
+  constructor(name) {
+    this.name = name;
+  }
+}
+
+
+
+
+
+
+
