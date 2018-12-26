@@ -21,3 +21,5 @@ class Passenger {
   }
   
 }
+
+let d
