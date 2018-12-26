@@ -8,6 +8,7 @@ class Driver {
     this.id = ++userId;
     store.drivers.push(this);
   }
+  
 }
 
 let passengerId = 0;
@@ -18,4 +19,5 @@ class Passenger {
     this.id = ++passengerId;
     store.passengers.push(this);
   }
+  
 }
